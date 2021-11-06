@@ -12,7 +12,7 @@
         public const string AssemblyCompany = "Rodrigo 'r2d2rigo' Díaz 2011-12";
         public const string AssemblyProduct = "ManagedSquish";
         public const string AssemblyCopyright = "Copyright © Rodrigo 'r2d2rigo' Díaz 2011-12";
-        public const string AssemblyTrademark = "nmadec";
+        public const string AssemblyTrademark = "ManagedSquish";
         public const string AssemblyCulture = ""; // Do not modify!
         public const bool ComVisible = false;
         public const string Guid = "c3facc05-acc8-47c2-8cc9-fee514b742d4";
